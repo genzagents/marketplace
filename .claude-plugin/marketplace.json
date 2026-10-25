@@ -1,0 +1,20 @@
+{
+  "name": "genzagents",
+  "owner": { "name": "genzagents", "url": "https://github.com/genzagents" },
+  "metadata": {
+    "description": "Plugins from genzagents: small, zero-dependency tools that agents and their owners run every week.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "citable",
+      "source": { "source": "github", "repo": "genzagents/citable" },
+      "description": "Check whether ChatGPT, Claude and Perplexity can read and cite a website: robots.txt, edge blocks, llms.txt, JSON-LD, JS-only content. Score 0-100 with fixes, llms.txt drafter. MCP server plus skill.",
+      "version": "0.1.0",
+      "author": { "name": "genzagents" },
+      "homepage": "https://genzagents.github.io/citable/",
+      "category": "seo",
+      "keywords": ["llms.txt", "AI search", "AEO", "GEO", "robots.txt", "GPTBot", "ClaudeBot", "PerplexityBot"]
+    }
+  ]
+}

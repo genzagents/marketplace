@@ -9,8 +9,8 @@
     {
       "name": "citable",
       "source": { "source": "github", "repo": "genzagents/citable" },
-      "description": "Check whether ChatGPT, Claude and Perplexity can read and cite a website: robots.txt, edge blocks, llms.txt, JSON-LD, JS-only content. Score 0-100 with fixes, llms.txt drafter. MCP server plus skill; weekly watch as a GitHub Action.",
-      "version": "0.2.0",
+      "description": "Check whether ChatGPT, Claude and Perplexity can read and cite a website: robots.txt, edge blocks, llms.txt, JSON-LD, JS-only content. Score 0-100 with fixes, llms.txt drafter. MCP server plus skill; weekly watch and prompt tracking as a GitHub Action.",
+      "version": "0.3.0",
       "author": { "name": "genzagents" },
       "homepage": "https://genzagents.github.io/citable/",
       "category": "seo",

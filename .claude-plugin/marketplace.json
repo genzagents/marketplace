@@ -16,7 +16,7 @@
         "repo": "genzagents/citable"
       },
       "description": "Check whether ChatGPT, Claude and Perplexity can read and cite a website: robots.txt, edge blocks, llms.txt, JSON-LD, JS-only content. Score 0-100 with fixes, llms.txt drafter. MCP server plus skill; weekly watch and prompt tracking as a GitHub Action.",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "author": {
         "name": "genzagents"
       },
@@ -40,7 +40,7 @@
         "repo": "genzagents/rentready"
       },
       "description": "Is an English rental ready for the landlord database (Register your rental property, Renters' Rights Act)? Region window and deadline from the postcode, gas/EICR/EPC validity, the £65/property fee, the upload checklist and penalties. Portfolio CSV check, .ics calendar export with reminders, and a free monthly watch as a GitHub Action that emails only when action is needed, and a hosted paid watch (Polar + Resend runner, reproducible reports). MCP server (check_property, check_portfolio, make_calendar) plus skill, zero dependencies.",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "author": {
         "name": "genzagents"
       },

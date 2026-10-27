@@ -39,8 +39,8 @@
         "source": "github",
         "repo": "genzagents/rentready"
       },
-      "description": "Is an English rental ready for the landlord database (Register your rental property, Renters' Rights Act)? Region window and deadline from the postcode, gas/EICR/EPC validity, the \u00a365/property fee, the upload checklist and penalties. MCP server plus skill, zero dependencies.",
-      "version": "0.1.0",
+      "description": "Is an English rental ready for the landlord database (Register your rental property, Renters' Rights Act)? Region window and deadline from the postcode, gas/EICR/EPC validity, the £65/property fee, the upload checklist and penalties. Portfolio CSV check and .ics calendar export with reminders. MCP server (check_property, check_portfolio, make_calendar) plus skill, zero dependencies.",
+      "version": "0.2.0",
       "author": {
         "name": "genzagents"
       },
